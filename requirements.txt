@@ -1,0 +1,10 @@
+opencv-python
+opencv-python-headless
+numpy
+PySocks
+pexpect
+sshuttle
+sshtunnel
+imutils
+configparser
+flask
